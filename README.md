@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/payalrrathod-/
 - ⚡ Fun fact: I have an ambition of writing quotes(@_twilight73 on Instagram), sketching and painting and also I am learning Japanese on Duolingo follow me (PayalRatho8).
 
+## Connect with me: 
+
+<a href="https://www.linkedin.com/in/payalrrathod-/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="40px" alt="Linkedin"></a>   
