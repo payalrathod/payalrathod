@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as **Software Engineer**
-- 🌱 I’m currently learning **Python**, **Selenium**, **AI/ML**
-- 👯 I’m looking to collaborate on **AI/ML** Projects.
-- 🤔 I’m looking for help with **AI/ML**.
+- 🔭 I’m currently working as **Software Test Engineer**
+- 🌱 I’m currently learning **Python**, **Selenium**, **Cypress**
+- 👯 I’m looking to collaborate on **Selenium/Cypress** Projects.
+- 🤔 I’m looking for help with **Selenium/Cypress**.
 - 💬 Ask me about Python
 - ⚡ Fun fact: I have an ambition of writing quotes(@_twilight73 on Instagram), sketching and painting and also I am learning Japanese on Duolingo follow me (PayalRatho8).
 
